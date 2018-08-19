@@ -7,7 +7,7 @@ spring:
   profile: dev
   application:
     name: mservice-provider-dev
-foo: [dev]foo version 1.0
+foo: dev-foo version 1.0
 
 ---
 spring:
